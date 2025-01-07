@@ -97,7 +97,7 @@ class Passaro:
         return pygame.mask.from_surface(self.imagem)
 
 class Cano:
-    DISTANCIA = 220
+    DISTANCIA = 200
     VELOCIDADE = 5
 
     def __init__(self, x):
