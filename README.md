@@ -2,7 +2,7 @@
 
 Um clone do famoso jogo Flappy Bird, desenvolvido em Python utilizando a biblioteca Pygame e conceitos de Programação Orientada a Objetos (POO). Este projeto apresenta um personagem diferente em vez do clássico pássaro.
 
-Link para download .exe: https://arthur-albuquerque.itch.io/flappy-bird-arthur-version
+Link para download .exe: https://arthur-albuquerque.itch.io/flappy-bird-arthur-version?secret=4Lk4oXMt8AtcpRcfWaZGST7GG7A
 
 ## Descrição
 
